@@ -1,0 +1,117 @@
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 8.125rem;
+  padding-bottom: 50px;
+  height: 30rem;
+}
+
+.middle-container {
+  padding-top: 50px;
+  padding-bottom:50px;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size:20px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Vidaloka', serif;
+  color: #66BFBF;
+}
+
+h3 {
+font-family: 'Raleway', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 270px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 320px;
+  top: 40px;
+}
+
+.ism-space {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  line-height: 3;
+  text-align: left;
+}
+.sleep{
+  float:left;
+  margin-right: 30px;
+}
+.phone{
+  float:right;
+  margin-left: 30px;
+}
+hr{
+  width:5%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #EAF6F6;
+}
+.btn{
+  background: #039aff;
+  background-image: -webkit-linear-gradient(top, #039aff, #126aa1);
+  background-image: -moz-linear-gradient(top, #039aff, #126aa1);
+  background-image: -ms-linear-gradient(top, #039aff, #126aa1);
+  background-image: -o-linear-gradient(top, #039aff, #126aa1);
+  background-image: linear-gradient(to bottom, #039aff, #126aa1);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #00ff8c;
+  background-image: -webkit-linear-gradient(top, #00ff8c, #17ab00);
+  background-image: -moz-linear-gradient(top, #00ff8c, #17ab00);
+  background-image: -ms-linear-gradient(top, #00ff8c, #17ab00);
+  background-image: -o-linear-gradient(top, #00ff8c, #17ab00);
+  background-image: linear-gradient(to bottom, #00ff8c, #17ab00);
+  text-decoration: none;
+}
+.footline-links{
+  color:#11999E;
+}
+.footline-links:hover{
+  color: #EAF6F6;
+}
+.contact-me{
+  line-height: 2.5;
+}
