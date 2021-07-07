@@ -10,8 +10,6 @@
 }
 
 .middle-container {
-  width: 60%;
-  margin: auto;
   padding-top: 50px;
   padding-bottom:50px;
 }
@@ -120,7 +118,5 @@ hr{
   color: #EAF6F6;
 }
 .contact-me{
-  width: 90%;
-  margin: auto;
   line-height: 2.5;
 }
