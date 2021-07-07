@@ -1,6 +1,4 @@
-*{
-  overflow-x:hidden;
-}
+
 .top-container {
   background-color: #EAF6F6;
   padding-top: 8.125rem;
@@ -22,6 +20,7 @@
 body {
   text-align: center;
   margin: 0;
+  overflow-x:hidden;
 }
 
 h1 {
