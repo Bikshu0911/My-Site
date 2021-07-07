@@ -17,6 +17,7 @@
 }
 
 body {
+  verflow-x: hidden;
   text-align: center;
   margin: 0;
 }
